@@ -1,4 +1,3 @@
-````markdown
 # QuantumSafeCipher-Prototype 🔒⚠️
 
 **A single-file educational implementation of a lattice-based cryptographic scheme**  
@@ -26,11 +25,8 @@ Implements a simplified lattice-based cipher combining:
 
 ## ⚙️ Requirements
 
-```text
 Python 3.6+
 numpy (install with: pip install numpy)
-```
-````
 
 ## 🧪 Basic Usage
 
